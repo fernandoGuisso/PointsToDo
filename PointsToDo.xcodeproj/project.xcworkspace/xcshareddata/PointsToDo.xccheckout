@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9CB4651C-BA67-45D1-9024-92148CEFDCEC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PointsToDo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0722F169-8205-4B9A-940C-156D9E23C27B</key>
+		<string>https://github.com/fernandoGuisso/PointsToDo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PointsToDo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0722F169-8205-4B9A-940C-156D9E23C27B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fernandoGuisso/PointsToDo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0722F169-8205-4B9A-940C-156D9E23C27B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0722F169-8205-4B9A-940C-156D9E23C27B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PointsToDo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
